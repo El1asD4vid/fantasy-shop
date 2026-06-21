@@ -16,5 +16,7 @@
 -Clave del Registro elegida: idProducto.
     Se eligió idProducto como clave principal porque identifica de manera única cada producto. Esto evita duplicados y facilita operaciones como la búsqueda, actualización del stock y administración del catálogo.
 
+Enlace de la app e-commerce: https://el1asd4vid.github.io/fantasy-shop/
+
 -Conclusión:
     Durante el desarrollo de este trabajo, la inteligencia artificial fue de gran ayuda para generar ideas, organizar el diseño de la aplicación y mejorar la interfaz del e-commerce. Además, permitió definir el registro principal, identificar la clave adecuada y comprender mejor cómo aplicar estos conceptos en un proyecto práctico. Sin embargo, hubo que revisar y probar cada propuesta para asegurar su correcto funcionamiento.
