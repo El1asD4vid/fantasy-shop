@@ -27,4 +27,5 @@ Legajo: 30126.
 
 
 -Enlace de la app e-commerce: https://el1asd4vid.github.io/fantasy-shop/
--Enlace al video demo de la app: 
+
+-Enlace al video demo de la app: https://www.youtube.com/watch?v=nG3Hy3Ip2fo
