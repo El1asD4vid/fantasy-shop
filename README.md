@@ -1,7 +1,8 @@
-ACTIVIDAD FORMATIVA N.° 2 - Diseñando un e-Commerce con Inteligencia Artificial 
-Alumno: AGUILAR CÁCERES ELÍAS DAVID.
-Legajo: 30126.
+ACTIVIDAD FORMATIVA N.° 2 - Diseñando un e-Commerce con Inteligencia Artificial
 
+Alumno: AGUILAR CÁCERES ELÍAS DAVID.
+
+Legajo: 30126.
 
 -NOMBRE DEL E-COMMERCE: Fantasy Shop
 
