@@ -1,4 +1,4 @@
-ACTIVIDAD FORMATIVA N.° 2 - Diseñando un e-Commerce con Inteligencia Artificial
+ACTIVIDAD FORMATIVA N.° 2 - Diseñando un e-Commerce con Inteligencia Artificial 
 Alumno: AGUILAR CÁCERES ELÍAS DAVID.
 Legajo: 30126.
 
